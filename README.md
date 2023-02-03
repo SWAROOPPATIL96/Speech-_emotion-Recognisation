@@ -2,7 +2,7 @@
 
 #Visualization  
 
-# Showing spectogram and waveplot
+#Showing spectogram and waveplot
 
 #Waveplot
 
