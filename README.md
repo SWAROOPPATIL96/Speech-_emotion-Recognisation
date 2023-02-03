@@ -4,7 +4,7 @@
 
 # Showing spectogram and waveplot
 
-# Waveplot
+#Waveplot
 
 #Spectogram
 
